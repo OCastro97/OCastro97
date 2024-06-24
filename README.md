@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Yo soy Kenilson Castro</h1>
+<h1 align="center">Hola 👋, Soy Kenilson Castro</h1>
 <h3 align="center">Un apasionado programador</h3>
 
 - 🔭 Actualmente trabajando en un proyecto de **tienda online**
