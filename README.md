@@ -10,7 +10,7 @@
 - 📫 Contactame **kenilsonc@gmail.com**
 
 - 📄 Acerca de mi experiencia:
-- Laborando en una empresa pública cómo analista y desarrollador de software, principalemente en el lado backend. Trabajando con el framework de PHP **Laravel**
+- Laborando en una empresa pública cómo analista y desarrollador de software, principalmente del lado backend. Trabajando con el framework de PHP **Laravel**
 
 ## 📄 Curriculum Vitae
 [📥 Descargar CV](KCASTRO.pdf)
