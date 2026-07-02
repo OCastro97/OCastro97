@@ -1,15 +1,16 @@
 <h1 align="center">Hola 👋, Soy Kenilson Castro</h1>
 <h3 align="center">Un apasionado programador</h3>
 
-- 🔭 Actualmente actualizando el proyecto de **Cita Veterinaria**
+  - 🔭 Actualmente trabajando como **Analista y desarrollador de software**
 
-- 🌱Actualmente aprendiendo **Laravel**
+- 🌱Conocimiento en **Laravel**
 
 - 💬 Pregúntame sobre **PHP, Java, mysql, ORACLE**
 
 - 📫 Contactame **kenilsonc@gmail.com**
 
-- 📄 Acerca de mi experiencia he realizado proyectos básico
+- 📄 Acerca de mi experiencia:
+- Laborando en una empresa pública cómo analista y desarrollador de software, principalemente en el lado backend. Trabajando con el framework de PHP **Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
