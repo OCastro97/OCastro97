@@ -12,6 +12,10 @@
 - 📄 Acerca de mi experiencia:
 - Laborando en una empresa pública cómo analista y desarrollador de software, principalemente en el lado backend. Trabajando con el framework de PHP **Laravel**
 
+## 📄 Curriculum Vitae
+[📥 Descargar CV](KCASTRO.pdf)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://pa.linkedin.com/in/oloninikinya-castro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pa.linkedin.com/in/oloninikinya-castro" height="30" width="40" /></a>
